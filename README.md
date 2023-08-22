@@ -39,4 +39,4 @@ Cucumber - Gherkin
     Cuando ingrese a el paso "El último paso"
     Cuando complete la contraseña y confirme la contraseña
     y hago clic en aceptar terminos, condiciones y politicas
-    Entonces mi usuario se deberia crear correctamente
+    Entonces mi usuario se deberia crear correctamente# Reto-QA-automat
